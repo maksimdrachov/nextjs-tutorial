@@ -121,4 +121,18 @@ export default function Home() {
 
 ### 4 - Routing Section Intro
 
+Routing in a Next.js app
+
+- File-system based routing mechanism
+- When a file is added to the pages folder in a project, it automatically becomes available as a route
+- By mixing and matching file names with a nested folder structure, it is possible to pretty much define the most common routing patterns
+
+In the next lessons:
+
+- Route with Pages
+- Nested routes
+- Dynamic routes
+- Catch-all routes
+- Navigate from the UI
+- Programmatically navigate b/w Pages
 
