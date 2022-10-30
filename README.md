@@ -136,3 +136,9 @@ In the next lessons:
 - Navigate from the UI
 - Programmatically navigate b/w Pages
 
+### 5 - Routing with Pages
+
+Scenario 1: Home Page
+
+Scenario 2: About Page and Profile Page
+
